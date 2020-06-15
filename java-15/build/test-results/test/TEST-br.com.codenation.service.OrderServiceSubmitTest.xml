@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.codenation.service.OrderServiceSubmitTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2020-06-15T00:53:57" hostname="DESKTOP-199BV8S" time="0.08">
+  <properties/>
+  <testcase name="testFindProductsByIdSize" classname="br.com.codenation.service.OrderServiceSubmitTest" time="0.045"/>
+  <testcase name="testCalculateOrderValueTotal" classname="br.com.codenation.service.OrderServiceSubmitTest" time="0.012"/>
+  <testcase name="testCalculateMultipleOrders" classname="br.com.codenation.service.OrderServiceSubmitTest" time="0.003"/>
+  <testcase name="testGroupProducts" classname="br.com.codenation.service.OrderServiceSubmitTest" time="0.01"/>
+  <testcase name="testCalculateTotalValueMultipleOrdersWithSale" classname="br.com.codenation.service.OrderServiceSubmitTest" time="0.001"/>
+  <testcase name="testCalculateTotalValueMultipleOrders" classname="br.com.codenation.service.OrderServiceSubmitTest" time="0.001"/>
+  <testcase name="testCalculateOrderValueTotalWithJustSale" classname="br.com.codenation.service.OrderServiceSubmitTest" time="0.001"/>
+  <testcase name="testFindProductsByIdSize2" classname="br.com.codenation.service.OrderServiceSubmitTest" time="0.0"/>
+  <testcase name="testFindProductsByIdIsNotNull" classname="br.com.codenation.service.OrderServiceSubmitTest" time="0.0"/>
+  <testcase name="testCalculateOrderValueTotalWithSale" classname="br.com.codenation.service.OrderServiceSubmitTest" time="0.0"/>
+  <testcase name="testCalculateOrderValue" classname="br.com.codenation.service.OrderServiceSubmitTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
